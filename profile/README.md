@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/eki-icon.png" width="120" height="120" alt="Eki" />
+<img src="./assets/eki-icon.png" width="120" height="120" alt="Eki" style="border-radius:28px;border:1px solid #d9d9d9;" />
 
 # Eki 에키
 
@@ -57,7 +57,32 @@
 
 화면별 시안은 Claude 디자인 캔버스로 짰고, 대부분 실제 앱에 반영됐어요.
 
-- 🎨 [화면별 디자인 시안 보기](https://claude.ai/artifact/AoqWioad67CZp1Q2Xyjqfi) *(팀 전용 · 로그인 필요)*
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="./assets/design/login.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>로그인
+</td>
+<td align="center" width="33%">
+<img src="./assets/design/home.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>홈
+</td>
+<td align="center" width="33%">
+<img src="./assets/design/quests.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>퀘스트
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="./assets/design/statistics.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>통계
+</td>
+<td align="center" width="33%">
+<img src="./assets/design/card.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>공부 카드
+</td>
+<td align="center" width="33%">
+<img src="./assets/design/team.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>팀
+</td>
+</tr>
+</table>
+</div>
 
 | 화면 | 상태 |
 | --- | --- |
