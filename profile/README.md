@@ -1,0 +1,51 @@
+<div align="center">
+
+<img src="./assets/eki-icon.png" width="120" height="120" alt="Eki" />
+
+# Eki 에키
+
+**공부 시간을 재고, 캐릭터를 키워요.**
+
+[![Expo](https://img.shields.io/badge/Expo-SDK%2057-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev)
+[![React Native](https://img.shields.io/badge/React%20Native-0.86-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+
+</div>
+
+---
+
+### Eki가 뭔가요?
+
+공부 시간을 재고 기록하면 내 캐릭터가 자라나는 스터디 타이머 앱이에요. 오늘 목표를 원형 게이지로 확인하고, 할 일을 완료해서 XP를 모으고, 팀을 만들어 친구들과 순위를 겨뤄요. 하루가 끝나면 그날의 기록을 카드 한 장으로 저장할 수 있어요.
+
+<div align="center">
+
+### 📲 지금 설치해보기 (Android)
+
+**[eki-app 최신 빌드 다운로드 →](https://expo.dev/accounts/m0_0n/projects/eki-app/builds/b6a53969-e130-4707-8bd0-f4cb9ebc83b0)**
+
+링크를 안드로이드 기기에서 열거나 QR을 스캔하면 바로 설치돼요 (Play 스토어 불필요, "출처를 알 수 없는 앱" 설치 허용 필요).
+
+</div>
+
+---
+
+### 프로젝트
+
+| 저장소 | 설명 |
+| --- | --- |
+| [**eki-app**](https://github.com/ego-kiwoogi/eki-app) | Expo / React Native 프론트엔드 |
+| [**eki-server**](https://github.com/ego-kiwoogi/eki-server) | Spring Boot / PostgreSQL 백엔드 |
+
+### 주요 기능
+
+- ⏱️ **타이머** — 공부 항목별로 시간을 재고, 오늘 전체 기록을 확인해요
+- 🎯 **퀘스트** — 오늘 공부 목표 달성률을 원형 게이지로, 할 일 완료로 XP 획득
+- 🐣 **캐릭터 성장** — 모은 XP로 레벨업하고 캐릭터를 커스터마이징
+- 🏆 **랭킹** — 전체/직군/팀 단위로 오늘·주간·월간 순위 경쟁
+- 👥 **팀** — 초대 코드로 팀을 만들고 함께 공부해요
+- 🃏 **공부 카드** — 하루 기록을 이미지 한 장으로 저장·공유
+
