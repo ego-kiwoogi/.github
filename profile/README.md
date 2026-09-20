@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/eki-icon.png" width="120" height="120" alt="Eki" style="border-radius:28px;border:1px solid #d9d9d9;" />
+<img src="./assets/eki-icon.png" width="120" height="120" alt="Eki" />
 
 # Eki 에키
 
@@ -61,24 +61,24 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="./assets/design/login.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>로그인
+<img src="./assets/design/login.png" width="200" /><br/>로그인
 </td>
 <td align="center" width="33%">
-<img src="./assets/design/home.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>홈
+<img src="./assets/design/home.png" width="200" /><br/>홈
 </td>
 <td align="center" width="33%">
-<img src="./assets/design/quests.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>퀘스트
+<img src="./assets/design/quests.png" width="200" /><br/>퀘스트
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<img src="./assets/design/statistics.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>통계
+<img src="./assets/design/statistics.png" width="200" /><br/>통계
 </td>
 <td align="center" width="33%">
-<img src="./assets/design/card.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>공부 카드
+<img src="./assets/design/card.png" width="200" /><br/>공부 카드
 </td>
 <td align="center" width="33%">
-<img src="./assets/design/team.png" width="200" style="border-radius:16px;border:1px solid #d9d9d9;" /><br/>팀
+<img src="./assets/design/team.png" width="200" /><br/>팀
 </td>
 </tr>
 </table>
